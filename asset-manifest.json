@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/landing-lagom/static/css/main.40e4d04c.chunk.css",
+    "main.js": "/landing-lagom/static/js/main.467ad324.chunk.js",
+    "main.js.map": "/landing-lagom/static/js/main.467ad324.chunk.js.map",
+    "runtime-main.js": "/landing-lagom/static/js/runtime-main.c1d25ddd.js",
+    "runtime-main.js.map": "/landing-lagom/static/js/runtime-main.c1d25ddd.js.map",
+    "static/js/2.79faeaa0.chunk.js": "/landing-lagom/static/js/2.79faeaa0.chunk.js",
+    "static/js/2.79faeaa0.chunk.js.map": "/landing-lagom/static/js/2.79faeaa0.chunk.js.map",
+    "index.html": "/landing-lagom/index.html",
+    "static/css/main.40e4d04c.chunk.css.map": "/landing-lagom/static/css/main.40e4d04c.chunk.css.map",
+    "static/js/2.79faeaa0.chunk.js.LICENSE.txt": "/landing-lagom/static/js/2.79faeaa0.chunk.js.LICENSE.txt",
+    "static/media/Holding-Phone.2d7313c1.png": "/landing-lagom/static/media/Holding-Phone.2d7313c1.png",
+    "static/media/Lagggom.b1c5cdf2.png": "/landing-lagom/static/media/Lagggom.b1c5cdf2.png",
+    "static/media/Lagom.cc8f829e.svg": "/landing-lagom/static/media/Lagom.cc8f829e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1d25ddd.js",
+    "static/js/2.79faeaa0.chunk.js",
+    "static/css/main.40e4d04c.chunk.css",
+    "static/js/main.467ad324.chunk.js"
+  ]
+}
